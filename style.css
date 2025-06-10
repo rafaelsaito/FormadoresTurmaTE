@@ -1,0 +1,13 @@
+body {
+    background-color: #305050;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: orange;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
