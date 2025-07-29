@@ -21,7 +21,7 @@ let aluno1 = {
     nome: "Rafael",
     idade: 29,
     anoLetivo: "Universidade",
-    materiasFavoritas; ["Matmática", "Programação", "Física"]
+    materiasFavoritas:["Matemática", "Programação", "Física"]
 }
 
 const objeto = document.querySelector("#aluno");
